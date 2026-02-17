@@ -1,0 +1,84 @@
+---
+title: "Highlights Gallery"
+---
+
+<br>
+
+A visual record of presentations, posters, and recognitions.
+
+---
+
+## AARC Congress 2025
+
+**American Association for Respiratory Care Annual Congress**
+- Phoenix, AZ | November 2025
+
+### Young Investigator Award
+
+::: {layout-ncol=2}
+![Receiving the Young Investigator Award at AARC Congress 2025](young_invs_award_2025.jpg)
+
+![Preferences of Senior Respiratory Care Students and Early-Career RTs When Selecting an Employer: A National Survey](AARC_congress_2025.jpg)
+:::
+
+- **Poster title**: Preferences of Senior Respiratory Care Students and Early-Career RTs When Selecting an Employer: A National Survey
+- **Role**: First Author & Presenter
+
+---
+
+## AARC Congress 2024
+
+**American Association for Respiratory Care Annual Congress**
+- Orlando, FL | November 2024
+
+### Editor's Choice Presentation
+
+![Impact of Ventilator Settings, Nebulizer Placement, Bias Flow, Humidification, and Circuit Adaptor on Aerosol Delivery During Invasive Ventilation — Selected as Editor's Choice](AARC_congress_Presentation_as_editor_choice_2024.jpg)
+
+- **Presentation title**: Impact of Ventilator Settings, Nebulizer Placement, Bias Flow, Humidification, and Circuit Adaptor on Aerosol Delivery During Invasive Ventilation
+- **Role**: First Author & Presenter
+- **Recognition**: 🌟 Editor's Choice
+
+---
+
+## AARC Congress 2023
+
+**American Association for Respiratory Care Annual Congress**
+- Nashville, TN | November 2023
+
+::: {layout-ncol=2}
+![Survey of Ventilator Waveform Interpretation Among ICU Professionals](congress_2023_6.jpg)
+
+![A Physiological Study to Assess the Effects of Awake Prone Positioning in Healthy Volunteers Under Different Respiratory Support](AARC_2023_5.jpg)
+
+![Aerosol Delivery to Simulated Spontaneously Breathing Tracheostomized Adult with and without Unheated Humidification](AARC_congress_2023_4.jpg)
+
+![Continuous Albuterol Delivery Using Heliox for Pediatric Patients](AARC_congress_2023_3.jpg)
+
+![Aerosol Delivery to Simulated Spontaneously Breathing Tracheostomized Adult with Heated Humidification](AARC_congress_2023_2.jpg)
+
+![Aerosol Delivery to Simulated Spontaneously Breathing Tracheostomized Pediatrics with Heated and Unheated Humidification](AARC_congress_2023_1.jpg)
+:::
+
+- **Role**: Co-Author & Presenter across multiple posters
+- **Posters presented**:
+  - Survey of Ventilator Waveform Interpretation Among ICU Professionals
+  - Physiological Effects of Awake Prone Positioning Under Different Respiratory Support
+  - Aerosol Delivery in Tracheostomized Adults — With and Without Humidification
+  - Continuous Albuterol Delivery Using Heliox for Pediatric Patients
+  - Aerosol Delivery in Tracheostomized Adults with Heated Humidification
+  - Aerosol Delivery in Tracheostomized Pediatrics with Heated and Unheated Humidification
+
+---
+
+## Academic Awards
+
+### Outstanding Academic Achievement & Outstanding Research Award — Rush University 2023
+
+![Outstanding Academic Achievement and Outstanding Research Award, Rush University 2023](Outstanding_academic_achievement_and_outstanding_research_award_2023_rush_university.jpg)
+
+- **Institution**: Rush University, Chicago, IL
+- **Year**: 2023
+
+---
+

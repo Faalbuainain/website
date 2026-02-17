@@ -14,6 +14,8 @@ website:
         text: Education & Experience
       - href: projects.qmd
         text: Projects
+      - href: conferences.qmd
+        text: Highlights Gallery
       - href: Blog.qmd
         text: Blogs
     right:
