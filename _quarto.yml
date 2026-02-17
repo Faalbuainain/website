@@ -25,6 +25,10 @@ website:
         href: https://github.com/faalbuainain     
       - icon: envelope
         href: mailto:faa84@case.edu
+ comments:
+    giscus:
+      repo: faalbuainain/website
+      mapping: /posts/p-value-blog.html
 
 format:
   html:
