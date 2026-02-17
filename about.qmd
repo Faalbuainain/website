@@ -1,0 +1,25 @@
+---
+title: "About Me"
+---
+
+<br>
+
+## Background
+
+I’m Fai Ali I. Albuainain, a Registered Respiratory Therapist and PhD candidate in Clinical Translational Science at Case Western Reserve University. My work bridges clinical practice, bench research, and data science to improve the safety and effectiveness of respiratory care. I’m driven by the goal of translating complex physiological concepts into practical interventions that enhance patient outcomes, particularly in aerosol therapy, mechanical ventilation, and asthma management.
+
+## My Journey
+
+I shifted from bedside care to research after seeing how under-researched or controversial practices can shape outcomes. Since then, I’ve led or co-authored 11+ projects—from systematic reviews and meta-analyses to prospective cohorts, randomized cross-over trials, and bench studies—centered on critical-care therapies such as HFNC, prone positioning, and aerosol delivery. I work across international teams, pairing rigorous study design with analytics (SPSS, R, Prism) to generate evidence that improves practice and mentors the next generation of respiratory therapists. Pursuing the PhD in Clinical Translational Science at Case Western Reserve University is how I’m turning that mission into sustained impact.
+
+## Personal Interests
+
+When I’m not in the lab or classroom, I enjoy traveling with my husband and our dog and watching movies together. These moments help me unwind and stay balanced outside of my academic and professional life.
+
+---
+
+## Connect With Me
+
+I’m always open to collaboration and networking. You can connect with me here:
+
+- **Email**: faa84@case.edu

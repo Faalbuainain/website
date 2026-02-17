@@ -1,0 +1,42 @@
+---
+title: "Fai Albuainain"
+subtitle: "Researcher | Educator"
+image: profile.jpg
+about:
+  template: trestles
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/fai-albuainain
+    - text: ORCID
+      href: https://orcid.org/0000-0002-1435-0074
+    - icon: github
+      text: Github
+      href: https://github.com/faalbuainain
+    - icon: envelope
+      text: Email
+      href: mailto:faa84@case.edu
+---
+<br>
+
+## About Me
+
+I’m Fai Ali Albuainain, a Registered Respiratory Therapist and PhD candidate in Clinical Translational Science at Case Western Reserve University. I focus on improving respiratory disease management, with interests spanning aerosol medicine, ventilatory support, and health disparities. 
+
+## What I'm Doing Now
+
+- Investigating how social determinants of health relate to quality of life and outcomes in patients with asthma.
+- Exploring the role of large language models (LLMs) in respiratory medicine.
+- Conducting bench studies on aerosol delivery using vibrating mesh nebulizers under various ventilation modes. 
+
+## Quick Links
+
+**[Download my CV](cv.pdf)**
+
+Feel free to reach out if you'd like to connect or collaborate!
+
+---
+
+*Last updated: February 2026*
+
+

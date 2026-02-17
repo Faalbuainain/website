@@ -1,0 +1,61 @@
+/* Custom CSS for your website */
+
+/* Customize colors */
+:root {
+  --primary-color: #558b2f;
+  --secondary-color: #333333;
+}
+
+/* Make text justified */
+body {
+  text-align: justify;
+}
+
+/* Make the navbar more prominent */
+.navbar {
+  background-color: #f8f6f0;
+}
+
+/* Style profile image on home page */
+.about-image {
+  border-radius: 60%;
+  max-width: 250px;
+}
+
+/* Improve spacing */
+.quarto-title-block {
+  padding-bottom: 2rem;
+}
+
+/* Style links */
+a {
+  color: var(--primary-color);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline
+  ;
+}
+
+/* Project cards styling */
+.project-card {
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  transition: box-shadow 0.3s ease;
+}
+
+.project-card:hover {
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+/* Footer styling */
+footer {
+  margin-top: 3rem;
+  padding-top: 1rem;
+  border-top: 1px solid #e0e0e0;
+  text-align: center;
+  color: #666;
+}

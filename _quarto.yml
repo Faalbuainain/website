@@ -1,0 +1,44 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Fai A Albuainain"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: education.qmd
+        text: Education & Experience
+      - href: projects.qmd
+        text: Projects
+      - href: Blog.qmd
+        text: Blogs
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/fai-albuainain-560058118/?originalSubdomain=sa
+      - text: <i class="ai ai-orcid" style="font-size:1.5em;"></i>
+        href: https://orcid.org/0000-0002-1435-0074
+      - icon: github
+        href: https://github.com/faalbuainain     
+      - icon: envelope
+        href: mailto:faa84@case.edu
+
+format:
+  html:
+    theme: sandstone 
+    backgroundcolor: "#ffffff"
+    fontcolor: "#333333"
+    linkcolor: "#558b2f"
+    fontsize: "1.1em"
+    linestretch: 1.7
+    mainfont: "Arial"
+    monofont: "Arial"
+    fontfamily: "Arial"
+    maxwidth: "1200px"  
+    toc: true
+    include-in-header:
+      - text: |
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">

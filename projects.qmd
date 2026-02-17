@@ -1,0 +1,94 @@
+---
+title: "Projects"
+---
+<br>
+
+Here are some of the projects I've worked on. 
+
+---
+
+## Quantifying Secondhand Aerosol Exposure to HCWs During Nebulization
+
+- **Skills**: Bench modeling, UV spectroscopic, SPSS, Graph Pad Prism, study design.
+
+- **Date**: September, 2025
+
+- **Link**: <https://shorturl.at/hg5TX>
+
+![](images/project1.png)
+
+### Overview
+In a climate-controlled ICU room, we quantified inhaled dose and ambient particle concentrations to estimate health-care worker (HCW) exposure to fugitive aerosols during nebulization.
+
+### Methods
+- Set-up: Patient + two HCW adult airway models at 1 ft and 3 ft; ventilator-driven spontaneous breathing.
+- Interface: Aerosol mask (mouth-breathing), tracheostomy mask, T-piece.
+- Drug Delivery: Albuterol via jet nebulizer (2 sessions; 30 mg total over 30 minutes).
+- Measurements: Inhaled drug on filters (UV at 276 nm), continuous particle counts at both distances; repeated trials with 30-min room reset.
+
+### Key Results
+- HCW inhaled dose ~0.1–0.3% of nominal across interfaces/distances; highest with trach mask.
+- Higher particle concentration at 1 ft than 3 ft for trach mask; strong linear correlation between inhaled dose and 1-ft aerosol levels (r²≈0.79).
+- Findings suggest low but non-negligible exposure; call for in-vivo/long-term risk assessment.
+
+---
+
+## Prophylactic Inhaled Antibiotics to Prevent VAP: Systematic Review & Network Meta-analysis
+
+- **Skills**: Evidence synthesis, R (meta/netmeta/gemtc), GRADE, trial sequential analysis.
+
+- **Date**: May, 2024 
+
+- **Link**: <https://shorturl.at/sxMGb>
+
+![](images/project2.png)
+
+### Overview
+Comprehensive review of inhaled/instilled antibiotics for VAP prevention in adults on invasive ventilation ≥48 h; emphasis on nebulized delivery.
+
+### Methods
+- Databases: PubMed, Scopus, Cochrane, ClinicalTrials.gov (to Oct 25, 2023).
+- 7 RCTs (n=1445) primary analyses (plus sensitivity with observational).
+- Random-effects meta-analysis; network meta-analysis for drug/route ranking; GRADE and TSA for certainty
+
+### Key Results
+- Prophylactic respiratory-tract antibiotics reduced VAP risk (RR≈0.69).
+- Nebulization and aminoglycosides showed the strongest signal (e.g., RR≈0.64 for nebulization).
+- No clear differences in mortality, MV duration, LOS, or adverse events vs. control.
+
+---
+
+## The effects of flow settings during high-flow nasal cannula support for adult subjects: a systematic review
+
+- **Skills**: Systematic review and physiology synthesis. 
+
+- **Date**: February, 2023
+
+- **Link**: <https://shorturl.at/BfAwB>
+
+![](images/project3.png)
+
+### Overview
+A systematic review of in vitro and in vivo studies examining how HFNC flow rates influence oxygenation, work of breathing, and comfort—and how to personalize flow titration.
+
+### Methods
+- Comprehensive search and synthesis of 44 studies (bench + adult human).
+- Extraction of key physiologic parameters: FiO₂ stability, PEEP, CO₂ washout, PTIF, comfort, and ROX index.
+- Critical appraisal and integration of quantitative and qualitative data.
+
+### Key Results
+
+- Optimal performance achieved when flow ≥ patient PTIF, improving FiO₂ stability and PEEP.
+- Mouth status (open vs. closed) significantly affects pressure generation.
+- Very high flows may cause regional over-distension or discomfort; individualized titration is essential.
+---
+
+## Ongoing Projects
+
+### Timely Treatment Escalation After Recurrent Asthma Exacerbations
+
+- Multi-center EHR study to identify adults with recurrent asthma exacerbation, quantify how often guideline-recommended escalation occurs within 90 days, and evaluate whether escalation prolongs time to the next exacerbation.
+
+---
+
+*Interested in collaborating? Feel free to reach out!*
