@@ -15,11 +15,14 @@ A visual record of presentations, posters, and recognitions.
 
 ### Young Investigator Award
 
-::: {layout-ncol=2}
-![Receiving the Young Investigator Award at AARC Congress 2025](young_invs_award_2025.jpg)
 
-![Preferences of Senior Respiratory Care Students and Early-Career RTs When Selecting an Employer: A National Survey](AARC_congress_2025.jpg)
-:::
+![Receiving the Young Investigator Award at AARC Congress 2025](young_invs_award_2025.jpg){width="50%" fig-align="center"}
+
+
+### Poster
+
+![Preferences of Senior Respiratory Care Students and Early-Career RTs When Selecting an Employer: A National Survey](AARC_congress_2025.jpg){width="60%" fig-align="center"}
+
 
 - **Poster title**: Preferences of Senior Respiratory Care Students and Early-Career RTs When Selecting an Employer: A National Survey
 - **Role**: First Author & Presenter
@@ -33,11 +36,11 @@ A visual record of presentations, posters, and recognitions.
 
 ### Editor's Choice Presentation
 
-![Impact of Ventilator Settings, Nebulizer Placement, Bias Flow, Humidification, and Circuit Adaptor on Aerosol Delivery During Invasive Ventilation — Selected as Editor's Choice](AARC_congress_Presentation_as_editor_choice_2024.jpg)
+![Impact of Ventilator Settings, Nebulizer Placement, Bias Flow, Humidification, and Circuit Adaptor on Aerosol Delivery During Invasive Ventilation — Selected as Editor's Choice](AARC_congress_Presentation_as_editor_choice_2024.jpg){width="50%" fig-align="center"}
 
 - **Presentation title**: Impact of Ventilator Settings, Nebulizer Placement, Bias Flow, Humidification, and Circuit Adaptor on Aerosol Delivery During Invasive Ventilation
 - **Role**: First Author & Presenter
-- **Recognition**: 🌟 Editor's Choice
+- **Recognition**: Editor's Choice
 
 ---
 
@@ -45,6 +48,8 @@ A visual record of presentations, posters, and recognitions.
 
 **American Association for Respiratory Care Annual Congress**
 - Nashville, TN | November 2023
+
+### Posters 
 
 ::: {layout-ncol=2}
 ![Survey of Ventilator Waveform Interpretation Among ICU Professionals](congress_2023_6.jpg)
@@ -75,7 +80,7 @@ A visual record of presentations, posters, and recognitions.
 
 ### Outstanding Academic Achievement & Outstanding Research Award — Rush University 2023
 
-![Outstanding Academic Achievement and Outstanding Research Award, Rush University 2023](Outstanding_academic_achievement_and_outstanding_research_award_2023_rush_university.jpg)
+![Outstanding Academic Achievement and Outstanding Research Award, Rush University 2023](rush_university.png){width="60%" fig-align="center"}
 
 - **Institution**: Rush University, Chicago, IL
 - **Year**: 2023
