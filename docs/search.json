@@ -166,5 +166,19 @@
     "title": "p < 0.05 — and we all nodded.",
     "section": "References",
     "text": "References\nFisher RA. Statistical Methods for Research Workers. London: Oliver & Boyd; 1934.\nWasserstein RL, Lazar NA. The American Statistician. 2016;70(2):129–133. doi:10.1080/00031305.2016.1154108\nWasserstein RL, Schirm AL, Lazar NA. The American Statistician. 2019;73(sup1):1–19. doi:10.1080/00031305.2019.1583913"
+  },
+  {
+    "objectID": "posts/p_value_blog.html",
+    "href": "posts/p_value_blog.html",
+    "title": "p < 0.05 — and we all nodded.",
+    "section": "",
+    "text": "For a long time, p &lt; 0.05 was our green light. Results came up, the number cleared the threshold, done. We didn’t question it much. Nobody around us did either. Then I sat in Dr. Thomas Love’s Statistical Methods in Biological & Medical Sciences class a few months ago and something shifted.\nHe opened by walking us through what he used to teach: pick a significance level — usually 0.05. Compute the p-value. If it’s below 0.05, call it “statistically significant.” If it isn’t, “retain the null.” He taught that for years. And then he explained why he stopped.That 0.05? Fisher helped popularize it as a convenient reference point, but over time it hardened into a rule. And now entire research careers, publication decisions, and sometimes even clinical “truth” get filtered through one arbitrary line. What started as one possible summary of evidence became a rule for authors, then a rule for editors, then a rule for entire journals. A tool became a gatekeeper.\nThe American Statistical Association put it plainly:\nAnd the harm isn’t just statistical; it’s cultural. The incentives reward “significance,” punish nuance, and quietly bury nulls. In 2019, the ASA editors went further:\nThose statements are now around 10 years behind us — and it’s 2026. Walk into any journal club, any conference, any research meeting: the room still nods at p &lt; 0.05. Not because p-values are useless, but because the moment we turn them into a yes/no stamp, we lose the things that actually matter: effect size, uncertainty, context, plausibility, bias, and study quality. A p-value of 0.08 still carries information. So does a null result. But we’ve been trained to treat both as “nothing.”\nWasserstein and colleagues propose a better posture — ATOM: Accept uncertainty, Be thoughtful, Be open, Be modest. Report the actual p-value. Show the effect size. Put uncertainty front and center. Say what the study can and cannot support. However, the problem runs deeper than p-values. We know what good practice looks like. We also know what gets published, what gets funded, and what gets you promoted. Until those align, the rest is just better documentation of the same bias.\nI’m guilty of this too. But maybe it’s time we stop outsourcing scientific judgment to a single threshold and start treating evidence like evidence: graded, contextual, and uncertain."
+  },
+  {
+    "objectID": "posts/p_value_blog.html#references",
+    "href": "posts/p_value_blog.html#references",
+    "title": "p < 0.05 — and we all nodded.",
+    "section": "References",
+    "text": "References\nFisher RA. Statistical Methods for Research Workers. London: Oliver & Boyd; 1934.\nWasserstein RL, Lazar NA. The American Statistician. 2016;70(2):129–133. doi:10.1080/00031305.2016.1154108\nWasserstein RL, Schirm AL, Lazar NA. The American Statistician. 2019;73(sup1):1–19. doi:10.1080/00031305.2019.1583913"
   }
 ]
