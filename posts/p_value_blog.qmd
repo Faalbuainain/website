@@ -2,6 +2,17 @@
 title: "p < 0.05 — and we all nodded."
 author: "Fai A. Albuainain"
 date: "2026-02-17"
+comments:
+  giscus:
+    repo: faalbuainain/website
+    repo-id: R_kgDORShyZw
+    category: General
+    category-id: DIC_kwDORShyZ84C2pf7
+    mapping: pathname
+    reactions-enabled: true
+    loading: lazy
+    theme: preferred_color_scheme
+    language: en
 ---
 
 For a long time, p < 0.05 was our green light. Results came up, the number cleared the threshold, done. We didn't question it much. Nobody around us did either. Then I sat in Dr. Thomas Love's Statistical Methods in Biological & Medical Sciences class a few months ago and something shifted. 

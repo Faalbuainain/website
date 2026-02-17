@@ -22,17 +22,13 @@ website:
       - text: <i class="ai ai-orcid" style="font-size:1.5em;"></i>
         href: https://orcid.org/0000-0002-1435-0074
       - icon: github
-        href: https://github.com/faalbuainain     
+        href: https://github.com/faalbuainain
       - icon: envelope
         href: mailto:faa84@case.edu
- comments:
-    giscus:
-      repo: faalbuainain/website
-      mapping: /posts/p-value-blog.html
 
 format:
   html:
-    theme: sandstone 
+    theme: sandstone
     backgroundcolor: "#ffffff"
     fontcolor: "#333333"
     linkcolor: "#558b2f"
@@ -41,7 +37,7 @@ format:
     mainfont: "Arial"
     monofont: "Arial"
     fontfamily: "Arial"
-    maxwidth: "1200px"  
+    maxwidth: "1200px"
     toc: true
     include-in-header:
       - text: |
